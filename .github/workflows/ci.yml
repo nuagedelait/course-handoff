@@ -16,5 +16,5 @@ jobs:
         TARGET_REPO: nuagedelait/course-handoff
         TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: src/.vuepress/dist/
+        BUILD_DIR: docs/.vuepress/dist/
         COMMIT_MESSAGE: 'Auto deploy from Github Actions'
