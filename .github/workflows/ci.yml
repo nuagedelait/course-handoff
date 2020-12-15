@@ -10,11 +10,11 @@ jobs:
       uses: actions/checkout@master
 
     - name: vuepress-deploy
-      uses: nuagedelait/course-handoff@master
+      uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.CI_TOKEN }}
         TARGET_REPO: nuagedelait/course-handoff
-        TARGET_BRANCH: master
+        TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: src/.vuepress/dist/
         COMMIT_MESSAGE: 'Auto deploy from Github Actions'
