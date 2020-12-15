@@ -26,4 +26,4 @@
 #### Talk about `designer / developer` collaboration
 #### Try to think from a developer `point of view`
 #### Have a preview of the `handoff tools`
-#### Learn the `integrator basics`
+#### Learn the `integrator 101`

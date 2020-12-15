@@ -66,6 +66,14 @@ module.exports = {
                 {
                   title: 'Think as developer',   // required
                   path: '/courses/handoff/01_think-as-developer.html'
+                },
+                {
+                  title: 'Handoff tools',   // required
+                  path: '/courses/handoff/02_handoff_tools.html'
+                },
+                {
+                  title: 'Integrator 101',   // required
+                  path: '/courses/handoff/03_integrator_101.html'
                 }
               ]
             }
