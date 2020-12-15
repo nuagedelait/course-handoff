@@ -1,0 +1,22 @@
+{
+  "name": "course-handoff",
+  "version": "0.0.1",
+  "description": "Design Handoff, a good Designer-Developer Collaboration",
+  "main": "index.js",
+  "authors": {
+    "name": "Oliver",
+    "email": "oliver@nuagedelait.com"
+  },
+  "repository": "https://github.com/nuagedelait/course-handoff",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.3.1"
+  }
+}
