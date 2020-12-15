@@ -9,13 +9,13 @@ A web integrator is more a designer than a developer
 #### - Based on XML structure (Document Object Model or DOM)
 
 ```
-<[tagName] [attributeName]="[attributeValue]">[tagContent]<[tagName]>
+<[tagName] [attributeName]="[attributeValue]">[tagContent]</[tagName]>
 ```
 
 exemple :
 
 ```
-<body class="bodyClass">The content of the website<body>
+<body class="bodyClass">The content of the website</body>
 ```
 
 nested exemple :
@@ -25,7 +25,7 @@ nested exemple :
   <header class="main_header"></header>
   <content id="main_content"></content>
   <footer></footer>
-<body>
+</body>
 ```
 
 #### - id must be unique on the same page
@@ -41,9 +41,9 @@ https://www.w3.org/
 
 #### - Need a `selector`
 
-tagName : directly the tagName
-class : .className
-id : #idName
+`tagName` : directly the tagName  
+`class` : .className  
+`id` : #idName  
 
 #### - Syntax
 

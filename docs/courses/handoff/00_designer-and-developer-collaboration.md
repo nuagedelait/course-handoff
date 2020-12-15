@@ -17,7 +17,7 @@ Exemple : **Dn'd agency (Paris)**
 
 ### Design
 
-- you should knwo better than me
+- you should know better than me
 
 ### Tech
 

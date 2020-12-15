@@ -4,23 +4,15 @@
 
 ### Styleguide
 
-#### - Zepelin
+#### - [Zepelin](https://zeplin.io/)
+#### - [Avocode](https://avocode.com/)
 
-https://zeplin.io/
-
-#### - Avocode
-
-https://avocode.com/
 
 ### animation
 
-#### - Framer
+#### - [Framer](https://www.framer.com/)
+#### - [Anima](https://www.animaapp.com/)
 
-https://www.framer.com/
-
-#### - Anima
-
-https://www.animaapp.com/
 
 ## About code generators
 
