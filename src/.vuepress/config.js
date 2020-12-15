@@ -81,14 +81,7 @@ module.exports = {
           path: '/docs/',      // optional, link of the title, which should be an absolute path and must exist
           collapsable: true, // optional, defaults to true
           sidebarDepth: 2,    // optional, defaults to 1
-          children: [
-            {
-              title: 'ES6',   // required
-              path: '/docs/es6/',      // optional, link of the title, which should be an absolute path and must exist
-              collapsable: true, // optional, defaults to true
-              sidebarDepth: 2
-            }
-          ]
+          children: []
         }
       ]
     }
