@@ -66,10 +66,6 @@ module.exports = {
                 {
                   title: 'Think as developer',   // required
                   path: '/courses/handoff/01_think-as-developer.html'
-                },
-                {
-                  title: 'Common ground',   // required
-                  path: '/courses/handoff/02_common-ground.html'
                 }
               ]
             }
