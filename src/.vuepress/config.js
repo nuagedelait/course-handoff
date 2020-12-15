@@ -29,6 +29,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    base:'/course-handoff/',
     repo: '',
     editLinks: false,
     docsDir: '',
