@@ -30,9 +30,9 @@ module.exports = {
    */
   themeConfig: {
     base:'/course-handoff/',
-    repo: '',
+    repo: 'nuagedelait/course-handoff',
     editLinks: false,
-    docsDir: '',
+    docsDir: 'docs',
     editLinkText: '',
     lastUpdated: false,
     nav: [
