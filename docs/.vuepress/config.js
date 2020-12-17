@@ -74,6 +74,30 @@ module.exports = {
                 {
                   title: 'Integrator 101',   // required
                   path: '/courses/handoff/03_integrator_101.html'
+                },
+                {
+                  title: 'Chambord',   // required
+                  path: '/courses/handoff/04_chambord.html'
+                }
+              ]
+            },
+            {
+              title: 'HTML - CSS',   // required
+              path: '/courses/HTML_CSS/',      // optional, link of the title, which should be an absolute path and must exist
+              collapsable: true, // optional, defaults to true
+              sidebarDepth: 1,
+              children: [
+                {
+                  title: 'Relative links',   // required
+                  path: '/courses/HTML_CSS/00_Relative_absolute.html'
+                },
+                {
+                  title: 'Layouts',   // required
+                  path: '/courses/HTML_CSS/01_layout.html'
+                },
+                {
+                  title: 'CSS selectors',   // required
+                  path: '/courses/HTML_CSS/02_CSS_selectors.html'
                 }
               ]
             }
